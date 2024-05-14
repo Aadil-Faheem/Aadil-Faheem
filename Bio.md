@@ -1,3 +1,0 @@
-- 👋 Hi, I’m @Aadil-Faheem
-- 👀 I’m interested in Cyber Security
-- 📫 How to reach me aadilfaheemix@outlook.com
