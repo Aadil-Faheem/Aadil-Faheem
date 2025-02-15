@@ -10,8 +10,6 @@
 <br>
 <h1>Skill Set</h1>
 <br>
-- <b>🗣️ Languages:</b> Python, C, SQL, JavaScript, HTML/CSS
-<br>
 - <b>🖥️ Security Tools:</b> Wireshark, Splunk, Suricata, Nmap
 <br>
 - <b>🔒 Security Skills:</b> Vulnerability assessment, Security auditing, Social engineering, Threat management, Log analysis, Cryptography
