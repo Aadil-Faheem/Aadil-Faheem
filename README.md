@@ -1,5 +1,5 @@
 <h1 align="center">Hello world, I'm <a href="https://aadilfaheem.framer.website/" target="_blank">Aadil Faheem</a> <img
-src="https://media.giphy.com/media/mA28dHGEU8Us36wEYJ/giphy.gif" height="32" /></h1> 
+src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ29xZzVsNGR1cTh3a3BxaGkwYWlvdTdhYWIzdDg4cjBiYXNoNmhrYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ztisqLhP99tVSHG136/giphy.gif" height="64" /></h1> 
 <div align="center">
 
 <img src="https://github.com/user-attachments/assets/3b40cc11-01ae-4be6-ab50-8988559f233f">
