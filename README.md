@@ -75,6 +75,7 @@ src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ29xZzVsNGR1cTh3a3BxaGkwY
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Aadil-Faheem&repo=OldDrive&theme=codeSTACKr)
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Aadil-Faheem&repo=Orbit&theme=codeSTACKr)
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Aadil-Faheem&repo=CyberNox&theme=codeSTACKr)
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Aadil-Faheem&repo=Soulbox&theme=codeSTACKr)
 
 </div>
 
