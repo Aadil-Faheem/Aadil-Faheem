@@ -6,7 +6,9 @@ src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ29xZzVsNGR1cTh3a3BxaGkwY
 <hr>
   </div>
   <div align="center">
-  <p>Cybersecurity Analyst with 4+ years of experience in threat monitoring, data protection, and incident response across international and contract-based roles. Skilled in Python, C#, and key cybersecurity tools, with a strong foundation in data privacy and digital safety education. Passionate about building practical tools and educating others, currently working at ACMC, Manama, Bahrain.
+  <p>Cybersecurity Analyst with 4+ years of experience in threat monitoring, data protection, and incident response across international and contract-based roles. Skilled in Python, C#, and key cybersecurity tools, with a strong foundation in data privacy and digital safety education. Passionate about building practical tools and educating others, currently working remotely for ACMC, Manama, Bahrain. <br>
+
+  I also make games :)
 
 
 </p>
@@ -65,18 +67,6 @@ src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ29xZzVsNGR1cTh3a3BxaGkwY
 
 
 <br>
-<h1>My GitHub Stats</h1>
-
-![Stats](https://github-readme-stats.vercel.app/api?username=Aadil-Faheem&show_icons=true&hide_border=true&theme=codeSTACKr)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aadil-Faheem&theme=codeSTACKr&layout=compact)
-<br>
-<br>
-<h1>Featured Projects</h1>
-
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Aadil-Faheem&repo=OldDrive&theme=codeSTACKr)
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Aadil-Faheem&repo=Soulbox&theme=codeSTACKr)
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Aadil-Faheem&repo=Orbit&theme=codeSTACKr)
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Aadil-Faheem&repo=CyberNox&theme=codeSTACKr)
 
 </div>
 
