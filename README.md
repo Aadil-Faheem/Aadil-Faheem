@@ -67,10 +67,5 @@ src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ29xZzVsNGR1cTh3a3BxaGkwY
 
 
 <br>
-<h1>My GitHub Stats</h1>
-
-![Stats](https://github-readme-stats.vercel.app/api?username=Aadil-Faheem&show_icons=true&hide_border=true&theme=codeSTACKr)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aadil-Faheem&theme=codeSTACKr&layout=compact)
-<br>
 
 
