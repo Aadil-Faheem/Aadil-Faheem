@@ -40,6 +40,7 @@ src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ29xZzVsNGR1cTh3a3BxaGkwY
   
 <h1>Contributed to securing:</h1>
 
+
 <table align="center" cellpadding="10" cellspacing="10" border="2">
   <tr>
     <td>
@@ -50,6 +51,9 @@ src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ29xZzVsNGR1cTh3a3BxaGkwY
     </td>
     <td>
       <img height="100" src="https://github.com/user-attachments/assets/87b2f14b-ec45-4c78-acac-5bd7231239c1">
+    </td>
+     <td>
+      <img height="100" src="https://github.com/user-attachments/assets/99d5e67c-2c83-4c44-9222-0af32d5c5e99">
     </td>
   </tr>
   <tr>
@@ -62,10 +66,13 @@ src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ29xZzVsNGR1cTh3a3BxaGkwY
     <td>
       <img height="100" src="https://github.com/user-attachments/assets/d87285f5-b9ed-4694-9628-fb6e952b650d">
     </td>
+    <td>
+      <img height="100" src="https://github.com/user-attachments/assets/a99774ff-1e50-4c11-9431-92f93c83783a">
+    </td>
   </tr>
 </table>
 
-
 <br>
+
 
 
