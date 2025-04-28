@@ -6,7 +6,11 @@ src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ29xZzVsNGR1cTh3a3BxaGkwY
 <hr>
   </div>
   <div align="center">
-  <p>Cybersecurity Analyst with 4+ years of experience in threat monitoring, data protection, and incident response across international and contract-based roles. Skilled in Python, C#, and key cybersecurity tools, with a strong foundation in data privacy and digital safety education. Passionate about building practical tools and educating others, currently working remotely for ACMC, Manama, Bahrain. <br>
+  <p> Cybersecurity Analyst with 4+ years of experience in threat monitoring, data protection, and incident response across international and contract-based roles. Skilled in Python, C#, and key cybersecurity tools, with a strong foundation in data privacy and digital safety education.
+
+**In 2020, independently discovered and responsibly disclosed critical vulnerabilities in Indian government systems related to Aadhaar and PAN card data leaks,** helping secure sensitive citizen information.
+
+Passionate about building practical tools and educating others, **currently working remotely for ACMC, Manama, Bahrain.** <br>
 
   I also make games :)
 
